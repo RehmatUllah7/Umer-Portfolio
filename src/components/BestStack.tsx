@@ -41,7 +41,7 @@ const BestStack: React.FC = () => {
                   <stop offset="100%" stopColor="currentColor" stopOpacity="1" />
                 </linearGradient>
               </defs>
-              {/* Default gray fill, black on hover, text gray , green on hover */}
+              
               <path d="M128 8l96 56v128l-96 56-96-56V64l96-56z" 
                     className="fill-white transition-colors duration-300 group-hover:fill-black " 
                     opacity="0.9" />
@@ -133,7 +133,7 @@ const BestStack: React.FC = () => {
             C# Language
           </span>
         </div>
-        
+
         {/* PostgreSQL */}
         <div className="group relative">
           <div className="absolute -inset-3 rounded-xl bg-linear-to-br
