@@ -53,6 +53,7 @@ const Navbar = () => {
           <a href="#home" className={linkClass("home")}>Home</a>
           <a href="#feature" className={linkClass("feature")}>Feature</a>
           <a href="#projects" className={linkClass("projects")}>Projects</a>
+          <a href="#resume" className={linkClass("resume")}>Resume</a>
           <a href="#contact" className={linkClass("contact")}>Contact</a>
         </div>
 
