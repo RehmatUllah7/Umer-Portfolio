@@ -2,7 +2,7 @@ const Experience = () => {
   return (
     <div className="relative mt-16">
 
-      {/* ===== Vertical timeline ===== */}
+      {/* ===== Vertical timeline ==== */}
       <div className="absolute left-4 top-0 w-1 h-full bg-gray-700"></div>
 
       {/* ===== Experience Item 1 ===== */}
