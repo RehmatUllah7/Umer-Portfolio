@@ -19,19 +19,17 @@ const Education = () => {
           {/* Badge */}
           <span className="absolute top-6 right-6 bg-black text-[#7ed957] text-sm px-4 py-2 rounded-lg transition-colors duration-300
                           group-hover:bg-gray-800 group-hover:text-[#7ed957]">
-            3.21 CGPA
-          </span>
+2021-2025          </span>
 
           <h3 className="text-2xl font-semibold text-gray mb-2 transition-colors duration-300 group-hover:text-white">
-            Bs in Computer Science
+            Bs in Software Engineering
           </h3>
 
           <p className="text-gray-400 mb-6 transition-colors duration-300 group-hover:text-gray-200">
-            Superior University Lahore (2018 - 2020)
-          </p>
+COMSATS University Islamabad          </p>
 
           <p className="text-gray-400 leading-relaxed transition-colors duration-300 group-hover:text-gray-200">
-            Studied Computer Science related subjects like Programming,
+            Studied software related subjects like Programming,
             Operating Systems, DBMS, OOPS, ML, Web Development, AI, DSA,
             Compiler Design etc.
           </p>
@@ -52,21 +50,16 @@ const Education = () => {
           {/* Badge */}
           <span className="absolute top-6 right-6 bg-black text-[#7ed957] text-sm px-4 py-2 rounded-lg transition-colors duration-300
                           group-hover:bg-gray-800 group-hover:text-[#7ed957]">
-            3.21 CGPA
-          </span>
+2018-2020          </span>
 
           <h3 className="text-2xl font-semibold text-gray mb-2 transition-colors duration-300 group-hover:text-white">
-            Bs in Computer Science
-          </h3>
+Higher Secondary Education          </h3>
 
           <p className="text-gray-400 mb-6 transition-colors duration-300 group-hover:text-gray-200">
-            Superior University Lahore (2018 - 2020)
-          </p>
+Layyah          </p>
 
           <p className="text-gray-400 leading-relaxed transition-colors duration-300 group-hover:text-gray-200">
-            Studied Computer Science related subjects like Programming,
-            Operating Systems, DBMS, OOPS, ML, Web Development, AI, DSA,
-            Compiler Design etc.
+          Studied in this college from 11th to 12th std. FSC Subjects: Chemistry, physics, Math, English etc
           </p>
         </div>
       </div>
